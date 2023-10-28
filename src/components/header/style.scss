@@ -60,7 +60,11 @@
             }
         }
     }
-
+    .rounded {
+        border-radius: 10px;
+        width: auto;
+        height: auto;
+    }
     .mobileMenuItems {
         display: flex;
         align-items: center;
