@@ -23,8 +23,7 @@ const Footer = () => {
         </ul>
         <div className="infoText">
          A Web application that enables users to search for any Movie or TV Show
-          of their choice by filtering out it by their choice of Genres,
-          ratings, popularity and release date.
+          of their choice by Using various filters.
           <br /> Technologies used in this
           application are React for front-end, scss for styling and The Movie Database for API call.
         </div>
@@ -53,6 +52,11 @@ const Footer = () => {
               }}
             />
           </span>
+        </div>
+        <div>
+        <p>
+						  &copy; By ANIKET TYAGI
+                            </p>
         </div>
       </ContentWrapper>
     </footer>
